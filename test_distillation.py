@@ -12,10 +12,6 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-import copy
-import mlflow
-import numpy as np
-import os
 import shutil
 import torch.utils.data as data
 import unittest
