@@ -13,11 +13,7 @@
 # limitations under the License.
 
 import copy
-import mlflow
-import numpy as np
-import os
-import shutil
-import torch.utils.data as data
+
 import unittest
 from datasets import load_dataset, load_metric
 from intel_extension_for_transformers.transformers import (
