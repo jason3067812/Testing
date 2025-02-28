@@ -1,13 +1,7 @@
 
 # limitations under the License.
 
-import copy
-
-import unittest
-from datasets import load_dataset, load_metric
-from intel_extension_for_transformers.transformers import (
-    metrics,
-    OptimizedModel,
+im
 )
 
 from neural_compressor.config import (
