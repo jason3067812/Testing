@@ -78,3 +78,6 @@ class TestDistillation(unittest.TestCase):
                            train_func = train_func,
                            eval_func = eval_func,)
 
+
+if __name__ == "__main__":
+    unittest.main()
