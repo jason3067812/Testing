@@ -1,8 +1,4 @@
 
-
-os.environ["WANDB_DISABLED"] = "true"
-
-
 class TestDistillation(unittest.TestCase):
     @classmethod
     def setUpClass(self):
